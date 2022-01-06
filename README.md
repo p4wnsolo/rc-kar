@@ -15,7 +15,10 @@ Hell on wheels.  Kali inside car.  Keyless entry simplified.  Surveillance mobil
 
 * Pi Cam
 * USB Cam
-  * `mjpg-streamer` for Linux broadcasts live stream to web URL.  No app required for viewing, viewable on any device.
+  * `mjpg-streamer` for Linux broadcasts live stream to web URL.  
+   * No app required for viewing
+   * viewable on any device w/browser
+   * Uses devices in /dev/videoX
 
 ### Microphone hat
 
