@@ -2,14 +2,12 @@
 Hell on wheels.  Kali inside car.  Keyless entry simplified.  Surveillance mobilized.
 
 
-
-
 ## Vehicle Rolljamming
-
 * Rolljam Repos on Github
   * x
   * y
   * z
+
 
 ## Surveillance
 
@@ -24,8 +22,10 @@ Hell on wheels.  Kali inside car.  Keyless entry simplified.  Surveillance mobil
 ### Audio
 * Microphone hat
 
+
 ## WiFi
 * wifipumpkin
+
 
 ## Push Notifications
 * [Apprise](https://github.com/caronc/apprise)
